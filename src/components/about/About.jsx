@@ -39,12 +39,9 @@ const about = () => {
 
           </div>
             <p>
-            Hi! My name is Juan Rosario and I’m a Full-Stack Developer, graduated at Microverse which is a remote software development school that works with pair programming and real-world project to teach development. I have had the opportunity to work on some projects with Html, JavaScript, CSS, ASP.Net, C#, and Flutter (Dart Programming Language).
+            I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
+                don't hestiate to contact me.
             </p>
-            <p>
-            I have more than 14 years of professional experience in the field of Industrial Engineering and during these years I have acquired the skills of teamwork, tight deadlines, personnel management, effective communication, and leadership, which are some of the skills needed to be a successful remote software developer engineer.
-            </p>
-
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
