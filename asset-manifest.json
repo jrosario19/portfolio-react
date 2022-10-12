@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.92af7b04.css",
+    "main.js": "/portfolio-react/static/js/main.22d276ba.js",
+    "static/media/Book tv.jpg": "/portfolio-react/static/media/Book tv.126aa6bdc5490446f4c8.jpg",
+    "static/media/Porfolio-Juan-Rosario.jpg": "/portfolio-react/static/media/Porfolio-Juan-Rosario.0d4f96f22734866d7d2f.jpg",
+    "static/media/Vet-Appointments.jpg": "/portfolio-react/static/media/Vet-Appointments.45db83e06b72e6e849a5.jpg",
+    "static/media/Mathmagicians.jpg": "/portfolio-react/static/media/Mathmagicians.3bbc2f551d73fce00470.jpg",
+    "static/media/Vote-System.jpg": "/portfolio-react/static/media/Vote-System.20adf3b116bdc407fcef.jpg",
+    "static/media/Budget-App.jpg": "/portfolio-react/static/media/Budget-App.8789250a8519fd58454e.jpg",
+    "static/media/Juan-Rosario-CV.pdf": "/portfolio-react/static/media/Juan-Rosario-CV.ddcaee4d263500cdb759.pdf",
+    "static/media/Foto-Perfil.jpg": "/portfolio-react/static/media/Foto-Perfil.6d1ce99a4e990586f68b.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.92af7b04.css.map": "/portfolio-react/static/css/main.92af7b04.css.map",
+    "main.22d276ba.js.map": "/portfolio-react/static/js/main.22d276ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92af7b04.css",
+    "static/js/main.22d276ba.js"
+  ]
+}
