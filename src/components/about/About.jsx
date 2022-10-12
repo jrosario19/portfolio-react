@@ -1,9 +1,10 @@
-import React from 'react'
-import './about.css'
-import ME from '../../assets/Foto-Perfil.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+/* stylelint-disable */
+import React from 'react';
+import './about.css';
+import ME from '../../assets/Foto-Perfil.jpg';
+import {FaAward} from 'react-icons/fa';
+import {FiUsers} from 'react-icons/fi';
+import {VscFolderLibrary} from 'react-icons/vsc';
 
 
 const about = () => {
