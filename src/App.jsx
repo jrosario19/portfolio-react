@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect } from 'react';
 import ReactGa from 'react-ga';
 import Header from './components/header/Header';

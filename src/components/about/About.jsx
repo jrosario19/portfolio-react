@@ -1,4 +1,4 @@
-/* stylelint-disable */
+/* eslint-disable */
 import React from 'react';
 import './about.css';
 import ME from '../../assets/Foto-Perfil.jpg';
