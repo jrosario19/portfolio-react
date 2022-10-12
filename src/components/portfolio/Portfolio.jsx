@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './portfolio.css'
 import {FaGithub} from 'react-icons/fa'

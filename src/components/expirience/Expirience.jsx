@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './expirience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
