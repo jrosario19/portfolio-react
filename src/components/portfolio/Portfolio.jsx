@@ -45,7 +45,7 @@ const listOfWork = [{
   Title: 'Personal Portfolio',
   Imge: IMG4,
   Github: 'https://github.com/jrosario19/portfolio-react',
-  liveLink: 'Unavailable',
+  liveLink: 'https://jazzy-dodol-7277d2.netlify.app',
   techs: "React",
   desc:"This is my personal Portfolio. Its purpose is for me to have a document in which I can show to recruiters and hiring managers my professional journey and demonstrate my skills and abilities."
 }, {
