@@ -7,7 +7,7 @@ This is my personal Portfolio. Its purpose is for me to have a document in which
 
 ## Live Demo (if available)
 
-- [Heroku](https://jazzy-dodol-7277d2.netlify.app)
+- [Netlify](https://jazzy-dodol-7277d2.netlify.app)
 
 
 ## Getting Started
