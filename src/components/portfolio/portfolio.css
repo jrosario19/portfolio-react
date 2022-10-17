@@ -20,6 +20,8 @@
 .portfolio__item-image {
   border-radius: 1.5rem;
   overflow: hidden;
+  height: 250px;
+
 }
 
 .portfolio__item h3 {
@@ -32,11 +34,28 @@
   margin-bottom: 1rem;
 }
 
+.paragraph-desc {
+  margin-bottom: 1.5rem;
+  height: 150px;
+}
+
+.project-tech {
+  margin-bottom: 1.5rem;
+  margin-top: 2.5rem;
+  text-align: center;
+  background-color: var(--color-bg);
+  color: var(--color-primary);
+}
+
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) ================= */
 @media screen and (max-width: 1024px) {
   .portfolio__container {
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
+  }
+  .paragraph-desc {
+    margin-bottom: 1.5rem;
+    height: 215px;
   }
 }
 
@@ -45,5 +64,9 @@
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+  .paragraph-desc {
+    margin-bottom: 1.5rem;
+    height: 185px;
   }
 }
