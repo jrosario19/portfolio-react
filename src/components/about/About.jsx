@@ -40,8 +40,8 @@ const about = () => {
 
           </div>
             <p>
-            I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
-                don't hestiate to contact me.
+            I am an Industrial Engineer with a Technological MBA.  I am also a Full-stack web developer and problem solver with excellent programming logic. Pair-programming and remote work lover. With more than 14 years of experience in the field of industrial engineering, I have become an expert facing different roles in this professional field. On a given day I could be leading work teams conducting industrial process planning meetings, and setting deadlines and goals. My job requires effective communication skills, leadership, people management, and the discipline to handle details and stick to tight deadlines.
+
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

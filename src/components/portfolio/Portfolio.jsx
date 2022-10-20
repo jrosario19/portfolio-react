@@ -4,8 +4,8 @@ import './portfolio.css'
 import {FaGithub} from 'react-icons/fa'
 import IMG1 from '../../assets/Book tv.jpg'
 import IMG2 from '../../assets/Budget-App.jpg'
-import IMG3 from '../../assets/Mathmagicians.jpg'
-import IMG4 from '../../assets/Porfolio-Juan-Rosario.jpg'
+import IMG3 from '../../assets/Mathmagicians1.jpg'
+import IMG4 from '../../assets/Porfolio-Juan-Rosario1.jpg'
 import IMG5 from '../../assets/Vet-Appointments.jpg'
 import IMG6 from '../../assets/Vote-System.jpg'
 const listOfWork = [{
@@ -15,31 +15,31 @@ const listOfWork = [{
   Github: 'https://github.com/NeshGogo/Sistema-de-votacion',
   liveLink: 'Unavailable',
   techs: "ASP.Net Core MVC",
-  desc:"This is a voting system that is based on the entire process that is carried out during the election of a candidate from a country. This system contains two aspects, one is the administrative part and the second part is the one used by the citizen who is going to vote."
+  desc:"Election app to vote and manage results in National Election."
 }, {
   Id: '2',
-  Title: 'Book for movie and tv show',
-  Imge: IMG1,
-  Github: 'https://github.com/Trictonicmp/js-capstone-project',
-  liveLink: 'https://trictonicmp.github.io/js-capstone-project/',
-  techs: "JavaScript",
-  desc:"Book tv app to keep track of tv shows, like a show and comment about them!"
-}, {
-  Id: '3',
-  Title: 'Budget Management System',
-  Imge: IMG2,
-  Github: 'https://github.com/jrosario19/rails-budget',
-  liveLink: 'https://tranquil-mesa-74989.herokuapp.com/',
-  techs: "Ruby on Rails",
-  desc:"A Mobile Web App made with Rails that takes care of your expenses. You can have a record of your expenses by date, category, amount, and others"
-}, {
-  Id: '4',
   Title: 'Vet Appointment Management System',
   Imge: IMG5,
   Github: 'https://github.com/rskinnerc/vet-appointments-rails',
   liveLink: 'https://vet-appointments.deply.cyou/',
   techs: "Ruby on Rails",
-  desc:"This is an app in which you can reserve an appointment with a Veterinarian, create a Doctor, delete a Doctor and show all your appointments. This app was created separating the Fron-End and the Back-End in two repositories"
+  desc:"Vet Appointment app to manage appointment with Veterinarians."
+}, {
+  Id: '3',
+  Title: 'Book for movie and tv show',
+  Imge: IMG1,
+  Github: 'https://github.com/Trictonicmp/js-capstone-project',
+  liveLink: 'https://trictonicmp.github.io/js-capstone-project/',
+  techs: "JavaScript",
+  desc:"Book tv app to keep track of tv shows, like a show and comment about them."
+}, {
+  Id: '4',
+  Title: 'Budget Management System',
+  Imge: IMG2,
+  Github: 'https://github.com/jrosario19/rails-budget',
+  liveLink: 'https://tranquil-mesa-74989.herokuapp.com/',
+  techs: "Ruby on Rails",
+  desc:"Budget app to manage spences."
 }, {
   Id: '5',
   Title: 'Personal Portfolio',
@@ -47,7 +47,7 @@ const listOfWork = [{
   Github: 'https://github.com/jrosario19/portfolio-react',
   liveLink: 'https://jazzy-dodol-7277d2.netlify.app',
   techs: "React",
-  desc:"This is my personal Portfolio. Its purpose is for me to have a document in which I can show to recruiters and hiring managers my professional journey and demonstrate my skills and abilities."
+  desc:"Juan Rosario's Personal Portfolio."
 }, {
   Id: '6',
   Title: 'Math Maggians',
@@ -55,7 +55,7 @@ const listOfWork = [{
   Github: 'https://github.com/jrosario19/math-magicians',
   liveLink: 'https://math-juan-rosario.herokuapp.com/',
   techs: "React",
-  desc:"Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and Read a random math-related quote."
+  desc:"Math app to manage calculation and Math quotes."
 }];
 
 
@@ -65,7 +65,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>My Projects</h2>
       <div className="container portfolio__container">
        {
         listOfWork.map((item)=>{

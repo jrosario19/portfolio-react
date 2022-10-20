@@ -45,6 +45,10 @@ header {
   background: var(--color-primary);
 }
 
+.career-h5 {
+  font-size: 1.5rem;
+}
+
 /* ================ HEADER SOCIALS ====================== */
 .scroll__down {
   position: absolute;

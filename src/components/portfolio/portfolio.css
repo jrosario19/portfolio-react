@@ -20,8 +20,6 @@
 .portfolio__item-image {
   border-radius: 1.5rem;
   overflow: hidden;
-  height: 250px;
-
 }
 
 .portfolio__item h3 {
@@ -36,7 +34,6 @@
 
 .paragraph-desc {
   margin-bottom: 1.5rem;
-  height: 150px;
 }
 
 .project-tech {
@@ -55,7 +52,6 @@
   }
   .paragraph-desc {
     margin-bottom: 1.5rem;
-    height: 215px;
   }
 }
 
@@ -67,6 +63,5 @@
   }
   .paragraph-desc {
     margin-bottom: 1.5rem;
-    height: 185px;
   }
 }
