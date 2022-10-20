@@ -18,7 +18,7 @@ const listOfWork = [{
   desc:"Election app to vote and manage results in National Election."
 }, {
   Id: '2',
-  Title: 'Vet Appointment Management System',
+  Title: 'Vet Appointment App',
   Imge: IMG5,
   Github: 'https://github.com/rskinnerc/vet-appointments-rails',
   liveLink: 'https://vet-appointments.deply.cyou/',
@@ -55,7 +55,7 @@ const listOfWork = [{
   Github: 'https://github.com/jrosario19/math-magicians',
   liveLink: 'https://math-juan-rosario.herokuapp.com/',
   techs: "React",
-  desc:"Math app to manage calculation and Math quotes."
+  desc:"Math app for calculation and quotes."
 }];
 
 
